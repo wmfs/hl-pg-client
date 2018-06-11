@@ -8,16 +8,18 @@ node_js:
   - '9'
 services:
   - postgresql
-
+addons:
+  postgresql: "9.2"
 sudo: false
 dist: trusty
-
 env:
   global:
-    - PG_CONNECTION_STRING=postgres://postgres:postgres@localhost:5432/my_test_db
+    - PG_CONNECTION_STRING=postgres://postgres:postgres@localhost:5432/travis_ci_test
     - TIMEOUT=15000
 install:
   - npm install
+before_script:
+  - pscl -c 'create database travis_ci_test;' -U postgres
 test:
   - npm test
 after_success:
