@@ -122,3 +122,11 @@ function copyStream(statement, params, client) {
 ### SQL Files
 
 The ```runFile``` method reads a file of SQL statements and executes them within a single transaction.
+
+### Testing
+
+Ensure a PostgreSQL database is setup for testing and add a PG_CONNECTION_STRING environment variable when establishing a pool of PostgreSQL connections, for example:
+
+```
+PG_CONNECTION_STRING=postgres://postgres:postgres@localhost:5432/my_test_db
+```
