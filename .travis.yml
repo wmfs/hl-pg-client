@@ -19,7 +19,7 @@ env:
 install:
   - npm install
 before_script:
-  - pscl -c 'create database travis_ci_test;' -U postgres
+  - psql -c 'create database travis_ci_test;' -U postgres
 test:
   - npm test
 after_success:
