@@ -5,7 +5,7 @@ const process = require('process')
 const expect = require('chai').expect
 
 function sqlf (statements) {
-  return statements.map(sql => { return {sql: sql} })
+  return statements.map(sql => { return { sql: sql } })
 }
 
 function postInsert (result, ctx) {
