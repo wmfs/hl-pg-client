@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/wmfs/hl-pg-client/compare/v1.4.0...v1.5.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.0 to 4.0.1 ([171560d](https://github.com/wmfs/hl-pg-client/commit/171560d))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([0f32f6a](https://github.com/wmfs/hl-pg-client/commit/0f32f6a))
+* **deps-dev:** update semantic-release requirement ([92c6bd3](https://github.com/wmfs/hl-pg-client/commit/92c6bd3))
+
 # [1.4.0](https://github.com/wmfs/hl-pg-client/compare/v1.3.0...v1.4.0) (2018-09-11)
 
 
