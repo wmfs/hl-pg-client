@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/wmfs/hl-pg-client/compare/v1.7.0...v1.8.0) (2018-10-26)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.5.0 to 7.6.0 ([ae96abf](https://github.com/wmfs/hl-pg-client/commit/ae96abf))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([d3e7961](https://github.com/wmfs/hl-pg-client/commit/d3e7961))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([e1c63c7](https://github.com/wmfs/hl-pg-client/commit/e1c63c7))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([25a6dce](https://github.com/wmfs/hl-pg-client/commit/25a6dce))
+* **deps-dev:** update semantic-release requirement ([23c4b3b](https://github.com/wmfs/hl-pg-client/commit/23c4b3b))
+* **deps-dev:** update semantic-release requirement ([a4714b3](https://github.com/wmfs/hl-pg-client/commit/a4714b3))
+* **deps-dev:** update semantic-release requirement ([039b954](https://github.com/wmfs/hl-pg-client/commit/039b954))
+
 # [1.7.0](https://github.com/wmfs/hl-pg-client/compare/v1.6.0...v1.7.0) (2018-10-08)
 
 
