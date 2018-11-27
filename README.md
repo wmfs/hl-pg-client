@@ -16,7 +16,7 @@
 
 ### Create
 ```
-const HlPgClient = require('hl-pg-client')
+const HlPgClient = require('@hl-pg-client')
 
 const client = new HlPgClient(connectionString)
 ```
