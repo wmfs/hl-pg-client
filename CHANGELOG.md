@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/wmfs/hl-pg-client/compare/v1.11.0...v1.11.1) (2019-02-15)
+
+
+### 🐛 Bug Fixes
+
+* **statement-runner:** Tidied state-runner fail logging ([3db71d7](https://github.com/wmfs/hl-pg-client/commit/3db71d7))
+
 # [1.11.0](https://github.com/wmfs/hl-pg-client/compare/v1.10.0...v1.11.0) (2019-02-08)
 
 
