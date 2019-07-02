@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/wmfs/hl-pg-client/compare/v1.11.1...v1.12.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.8.0 to 7.11.0 ([59d5b03](https://github.com/wmfs/hl-pg-client/commit/59d5b03))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([6bd8ea2](https://github.com/wmfs/hl-pg-client/commit/6bd8ea2))
+
 ## [1.11.1](https://github.com/wmfs/hl-pg-client/compare/v1.11.0...v1.11.1) (2019-02-15)
 
 
