@@ -1,7 +1,7 @@
 # hl-pg-client
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/hl-pg-client.svg)](https://www.npmjs.com/package/@wmfs/hl-pg-client)
-[![Build Status](https://travis-ci.org/wmfs/hl-pg-client.svg?branch=master)](https://travis-ci.org/wmfs/hl-pg-client)
+[![CircleCI](https://circleci.com/gh/wmfs/hl-pg-client.svg?style=svg)](https://circleci.com/gh/wmfs/hl-pg-client)
 [![codecov](https://codecov.io/gh/wmfs/hl-pg-client/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/hl-pg-client)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/hl-pg-client/badge)](https://www.codefactor.io/repository/github/wmfs/hl-pg-client)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
