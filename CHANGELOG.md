@@ -1,3 +1,28 @@
+# [1.13.0](https://github.com/wmfs/hl-pg-client/compare/v1.12.0...v1.13.0) (2019-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.11.0 to 7.12.1 ([51a9999](https://github.com/wmfs/hl-pg-client/commit/51a9999))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([ee800b6](https://github.com/wmfs/hl-pg-client/commit/ee800b6))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([7380f93](https://github.com/wmfs/hl-pg-client/commit/7380f93))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([ce19d47](https://github.com/wmfs/hl-pg-client/commit/ce19d47))
+* **deps-dev:** update cz-conventional-changelog requirement ([a474d05](https://github.com/wmfs/hl-pg-client/commit/a474d05))
+* **deps-dev:** update mocha requirement from 6.1.4 to 6.2.0 ([333fa62](https://github.com/wmfs/hl-pg-client/commit/333fa62))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([9ef2586](https://github.com/wmfs/hl-pg-client/commit/9ef2586))
+* **deps-dev:** update semantic-release requirement ([b9090ba](https://github.com/wmfs/hl-pg-client/commit/b9090ba))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([dcf7433](https://github.com/wmfs/hl-pg-client/commit/dcf7433))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([6623d78](https://github.com/wmfs/hl-pg-client/commit/6623d78))
+* **travis:** Remove Travis config ([6ec2f5b](https://github.com/wmfs/hl-pg-client/commit/6ec2f5b))
+
 # [1.12.0](https://github.com/wmfs/hl-pg-client/compare/v1.11.1...v1.12.0) (2019-07-02)
 
 
