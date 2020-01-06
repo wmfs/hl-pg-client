@@ -1,3 +1,12 @@
+# [1.14.0](https://github.com/wmfs/hl-pg-client/compare/v1.13.0...v1.14.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.12.1 to 7.17.0 ([3c13c78](https://github.com/wmfs/hl-pg-client/commit/3c13c78a0582297862884565d05365d11493bac0))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([f59631e](https://github.com/wmfs/hl-pg-client/commit/f59631e0accf1f175c65222db9d23c77d2cc23a6))
+* **deps-dev:** bump packages ([b57a2c5](https://github.com/wmfs/hl-pg-client/commit/b57a2c5db38b4148db572d1d762c17b033ea69a2))
+
 # [1.13.0](https://github.com/wmfs/hl-pg-client/compare/v1.12.0...v1.13.0) (2019-09-11)
 
 
