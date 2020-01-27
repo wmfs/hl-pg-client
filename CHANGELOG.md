@@ -1,3 +1,19 @@
+# [1.15.0](https://github.com/wmfs/hl-pg-client/compare/v1.14.0...v1.15.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.17.0 to 7.17.1 ([b557b61](https://github.com/wmfs/hl-pg-client/commit/b557b61b39ad9153416f1f23332b01f31db0b6c8))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([c3db3ed](https://github.com/wmfs/hl-pg-client/commit/c3db3ed19864a7b762ad0f67ba212db86da9d4ba))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([7ceec52](https://github.com/wmfs/hl-pg-client/commit/7ceec52d205b9d1030540ccc8fad38d622e27621))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([f6df0f9](https://github.com/wmfs/hl-pg-client/commit/f6df0f9ab20e322f8626700edc630a90877cc5be))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([90c77d7](https://github.com/wmfs/hl-pg-client/commit/90c77d7ebf4b9038650cf05366d52abc692897a9))
+
+
+### 💎 Styles
+
+* standard --fix ([07a10cf](https://github.com/wmfs/hl-pg-client/commit/07a10cf23a8d4decaf073ccc2356f17476979dfa))
+
 # [1.14.0](https://github.com/wmfs/hl-pg-client/compare/v1.13.0...v1.14.0) (2020-01-06)
 
 
