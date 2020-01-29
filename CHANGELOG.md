@@ -1,3 +1,13 @@
+# [1.16.0](https://github.com/wmfs/hl-pg-client/compare/v1.15.0...v1.16.0) (2020-01-29)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.17.1 to 7.18.0 ([cad3e19](https://github.com/wmfs/hl-pg-client/commit/cad3e19ae06edafb08369c3d7dba48bb547231b4))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([2b86246](https://github.com/wmfs/hl-pg-client/commit/2b862469a8323fe38fb2c82c230294b35bb94068))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.0.3 ([c330b35](https://github.com/wmfs/hl-pg-client/commit/c330b35f9016deb41203d11a14583a6eac3cae4e))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.3 to 3.1.0 ([025cbd2](https://github.com/wmfs/hl-pg-client/commit/025cbd29c9849726e5dc0d38febf491542e20a6f))
+
 # [1.15.0](https://github.com/wmfs/hl-pg-client/compare/v1.14.0...v1.15.0) (2020-01-27)
 
 
