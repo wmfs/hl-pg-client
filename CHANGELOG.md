@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/wmfs/hl-pg-client/compare/v1.16.0...v1.17.0) (2020-01-30)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.18.0 to 7.18.1 ([4a70cd2](https://github.com/wmfs/hl-pg-client/commit/4a70cd2aa6affbbe840cffe2ddd541fd3a5a88e9))
+
 # [1.16.0](https://github.com/wmfs/hl-pg-client/compare/v1.15.0...v1.16.0) (2020-01-29)
 
 
