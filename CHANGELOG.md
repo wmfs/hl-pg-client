@@ -1,3 +1,15 @@
+# [1.18.0](https://github.com/wmfs/hl-pg-client/compare/v1.17.0...v1.18.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.18.1 to 7.18.2 ([24b19ba](https://github.com/wmfs/hl-pg-client/commit/24b19ba3b89e44bf6c824e292d40feb695aeede0))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([5919fb0](https://github.com/wmfs/hl-pg-client/commit/5919fb0600ea33545ca4107dcee3c6f9922ee36e))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([48fff92](https://github.com/wmfs/hl-pg-client/commit/48fff9278c3c27da6b95a49d0f0d0b8f8be9d529))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([e0855e5](https://github.com/wmfs/hl-pg-client/commit/e0855e5c1aab18bbd8eafae94346280707fd1738))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([c611416](https://github.com/wmfs/hl-pg-client/commit/c611416f3832887e0332b2eb30871530ce42a8b8))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.4 ([c8fc676](https://github.com/wmfs/hl-pg-client/commit/c8fc676133c5831c11aa5e073d13841d2f534688))
+
 # [1.17.0](https://github.com/wmfs/hl-pg-client/compare/v1.16.0...v1.17.0) (2020-01-30)
 
 
