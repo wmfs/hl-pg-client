@@ -1,3 +1,21 @@
+# [1.19.0](https://github.com/wmfs/hl-pg-client/compare/v1.18.0...v1.19.0) (2020-04-02)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 7.18.2 to 8.0.0 ([033f848](https://github.com/wmfs/hl-pg-client/commit/033f848a5590dcace114a20a4c46eaa7d9761871))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([954d9f7](https://github.com/wmfs/hl-pg-client/commit/954d9f75085db676013f782aefd1fdd9482eb337))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([fe28613](https://github.com/wmfs/hl-pg-client/commit/fe2861342c90bd306a78df874a2ed783bbadbfe2))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([8d040da](https://github.com/wmfs/hl-pg-client/commit/8d040dae9c70bf5a74ecacb87759794afb1bd16f))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([eca9c56](https://github.com/wmfs/hl-pg-client/commit/eca9c560d68154abf946504ceb2731c32c799583))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([b83694f](https://github.com/wmfs/hl-pg-client/commit/b83694f6f0852ba37ef92c386612fa56566174b5))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([8190c0c](https://github.com/wmfs/hl-pg-client/commit/8190c0cec3ef676556d7e8926a945b44101cc8ff))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([2631c81](https://github.com/wmfs/hl-pg-client/commit/2631c81db6283d69867d542dcc53ef8af92548f9))
+
 # [1.18.0](https://github.com/wmfs/hl-pg-client/compare/v1.17.0...v1.18.0) (2020-02-26)
 
 
