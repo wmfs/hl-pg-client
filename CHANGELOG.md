@@ -1,3 +1,11 @@
+# [1.20.0](https://github.com/wmfs/hl-pg-client/compare/v1.19.0...v1.20.0) (2020-04-15)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 8.0.0 to 8.0.2 ([fbcf65e](https://github.com/wmfs/hl-pg-client/commit/fbcf65ec6855462f8e4cdfbbf3ac1a38f3ce273f))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([e80c9aa](https://github.com/wmfs/hl-pg-client/commit/e80c9aa4ba341c7e36a402eea270e0eecb8311cc))
+
 # [1.19.0](https://github.com/wmfs/hl-pg-client/compare/v1.18.0...v1.19.0) (2020-04-02)
 
 
