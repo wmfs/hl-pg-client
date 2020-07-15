@@ -1,3 +1,23 @@
+# [1.22.0](https://github.com/wmfs/hl-pg-client/compare/v1.21.0...v1.22.0) (2020-07-15)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 8.1.0 to 8.3.0 ([d898051](https://github.com/wmfs/hl-pg-client/commit/d8980514a575415cc849ceb54714b2a66af9922c))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([563f561](https://github.com/wmfs/hl-pg-client/commit/563f5617f77a70a33a6e79d702807d52951c4c3c))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([c4ca472](https://github.com/wmfs/hl-pg-client/commit/c4ca472785101b39a7e9e1b45403db0256edc122))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([3c068eb](https://github.com/wmfs/hl-pg-client/commit/3c068eb855b616f2179ed311992afc5ce8758099))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([cecb781](https://github.com/wmfs/hl-pg-client/commit/cecb78144e346dbe8f5c1c92bf121e4d85d164fa))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([b91c72b](https://github.com/wmfs/hl-pg-client/commit/b91c72ba2b60fa5bb8ba03e7c958a175826de03a))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([92ceb4b](https://github.com/wmfs/hl-pg-client/commit/92ceb4b2f8b21229d76755c77335cec12f2df203))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([527954d](https://github.com/wmfs/hl-pg-client/commit/527954d8292662b31b5bb5e160e79d8fed8014fb))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([ccadf52](https://github.com/wmfs/hl-pg-client/commit/ccadf52ac628913b5e3a2de85aef31dfce9d27c4))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([bd49a8a](https://github.com/wmfs/hl-pg-client/commit/bd49a8ac80e62844cb76c477574c53bd877f56c3))
+
 # [1.21.0](https://github.com/wmfs/hl-pg-client/compare/v1.20.0...v1.21.0) (2020-05-11)
 
 
