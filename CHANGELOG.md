@@ -1,3 +1,19 @@
+# [1.23.0](https://github.com/wmfs/hl-pg-client/compare/v1.22.0...v1.23.0) (2020-08-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 8.3.0 to 8.3.2 ([ccec60f](https://github.com/wmfs/hl-pg-client/commit/ccec60fa1db88a3afc01056fbd54f81dd3b007ca))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([abe6b28](https://github.com/wmfs/hl-pg-client/commit/abe6b28901d09df9c4a1171ff80a1599b3fa320c))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([3e420ca](https://github.com/wmfs/hl-pg-client/commit/3e420ca7901e6fed07f832966e2121b6901390e4))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([289ce5b](https://github.com/wmfs/hl-pg-client/commit/289ce5b10003e99d1d0d75dbc5f36d4204473ba1))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([a68aea3](https://github.com/wmfs/hl-pg-client/commit/a68aea3c52a602cc17253d8ee419ec70a82a1ca1))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([9651e41](https://github.com/wmfs/hl-pg-client/commit/9651e410c3aee39541420b27d96be5a04135e113))
+
 # [1.22.0](https://github.com/wmfs/hl-pg-client/compare/v1.21.0...v1.22.0) (2020-07-15)
 
 
