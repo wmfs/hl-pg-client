@@ -1,3 +1,36 @@
+# [1.26.0](https://github.com/wmfs/hl-pg-client/compare/v1.25.0...v1.26.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.2.0 to 4.3.1 ([196bd9e](https://github.com/wmfs/hl-pg-client/commit/196bd9eb951aa55c00f42e14595f19f33aacdb32))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([e4f842d](https://github.com/wmfs/hl-pg-client/commit/e4f842d7db3e5202e25000c33b9b4b0851b0e6d4))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([8a19b67](https://github.com/wmfs/hl-pg-client/commit/8a19b67d73d0dec0ac062a066aadd7e2970d27bb))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([bcdd46c](https://github.com/wmfs/hl-pg-client/commit/bcdd46c32510263a46f4d92a868a932ce2049f61))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([dd18355](https://github.com/wmfs/hl-pg-client/commit/dd183551d03342f78cbda270344c36592eb9e648))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([ca76a05](https://github.com/wmfs/hl-pg-client/commit/ca76a054163de271cf291095add9a3578d7803da))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([4a2a5db](https://github.com/wmfs/hl-pg-client/commit/4a2a5dbd80d72c27cd48a6ca5a95c6d9ca5e767d))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([39315b7](https://github.com/wmfs/hl-pg-client/commit/39315b7777bdce60df5c7138a268111f8601d9b4))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([d1a2cb7](https://github.com/wmfs/hl-pg-client/commit/d1a2cb7b55b4260cb8471aeed64bff4c90eb3e38))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([ec7133f](https://github.com/wmfs/hl-pg-client/commit/ec7133fcd26ee545b215c919576983e0f1d4ddd0))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([5f25750](https://github.com/wmfs/hl-pg-client/commit/5f2575004abae06bb18b9d9e15070d3929c6f398))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([f3600bd](https://github.com/wmfs/hl-pg-client/commit/f3600bd2b9fa5d679b99b4c4485ac0c8190dfc24))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([d45528b](https://github.com/wmfs/hl-pg-client/commit/d45528bc29989fe914daabee9bfa48640ef42329))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([8aa7e4d](https://github.com/wmfs/hl-pg-client/commit/8aa7e4d20b3c8a4a829893f8a9d4a1318e0ce3ed))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([c4fcb78](https://github.com/wmfs/hl-pg-client/commit/c4fcb7836920cb9abe6d748c275392e73bf95ddc))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([00ea2a5](https://github.com/wmfs/hl-pg-client/commit/00ea2a51c09af35805fdb37d3820fe57e39dc6b8))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([bba8435](https://github.com/wmfs/hl-pg-client/commit/bba8435064e36b5c1ccee8318e7636f37cb1f020))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([ffdb564](https://github.com/wmfs/hl-pg-client/commit/ffdb5647c18c80af7737169c7e70c9270693398f))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([919be1c](https://github.com/wmfs/hl-pg-client/commit/919be1cc4a6461a015ac224a28c3bc87f5d6838b))
+* **circle:** cache dependencies [ch2770] ([f571b8d](https://github.com/wmfs/hl-pg-client/commit/f571b8d2e93c2ce029377c667c5d1e05de996cc7))
+* **circle:** separate linting job [ch1009] ([4c370e4](https://github.com/wmfs/hl-pg-client/commit/4c370e402fd423a728be788eedfe1aa55765b476))
+* **circle:** update build environment variable context name [ch2771] ([9d3dbfd](https://github.com/wmfs/hl-pg-client/commit/9d3dbfddb6d5e3114b7aa09366c27aa6ecffb62d))
+* **circle:** use tmpfs postgres image [ch2769] ([9518a30](https://github.com/wmfs/hl-pg-client/commit/9518a30d1353575628814cc215a2405a72d0f8fe))
+
 # [1.25.0](https://github.com/wmfs/hl-pg-client/compare/v1.24.0...v1.25.0) (2020-09-28)
 
 
