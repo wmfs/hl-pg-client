@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/wmfs/hl-pg-client/compare/v1.26.0...v1.27.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump pg from 8.3.3 to 8.5.1 ([f516155](https://github.com/wmfs/hl-pg-client/commit/f51615516d100dcf2dfbb5fd3973a1e2381ef812))
+
 # [1.26.0](https://github.com/wmfs/hl-pg-client/compare/v1.25.0...v1.26.0) (2021-01-05)
 
 
