@@ -1,3 +1,41 @@
+# [1.28.0](https://github.com/wmfs/hl-pg-client/compare/v1.27.0...v1.28.0) (2021-07-09)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.3.1 to 4.3.2 ([67d0f47](https://github.com/wmfs/hl-pg-client/commit/67d0f479fd2427292f32dd90745aa05c5e52ad8b))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([6cd4fbe](https://github.com/wmfs/hl-pg-client/commit/6cd4fbec607aefc2963301d5931c5f92264e26e0))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([c56489a](https://github.com/wmfs/hl-pg-client/commit/c56489aaf46c4253aa421ba668ef5e6ad9e508c2))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([f282917](https://github.com/wmfs/hl-pg-client/commit/f282917baa3caf8f4f7686733329872fa7fd8ed6))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([0f940f6](https://github.com/wmfs/hl-pg-client/commit/0f940f69ada6f4686d8836376cbc041224af68f8))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([2b25cbc](https://github.com/wmfs/hl-pg-client/commit/2b25cbc0b5631d4fe54ba35611f311665d5b91e3))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([4a5f20d](https://github.com/wmfs/hl-pg-client/commit/4a5f20ddfe524a2f6b42c503cc593fb8c260410f))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([007405b](https://github.com/wmfs/hl-pg-client/commit/007405be0351587ffc9511ca0043b4204f45fa8a))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([21486db](https://github.com/wmfs/hl-pg-client/commit/21486db53c01be8814bdf6cefd4c3a628b1476dc))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([c367274](https://github.com/wmfs/hl-pg-client/commit/c367274239327fbc2d895a6963394ba161c3c933))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([dafd3fd](https://github.com/wmfs/hl-pg-client/commit/dafd3fd1653b533fe95ff48a41abf9902974c8ff))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([868a19e](https://github.com/wmfs/hl-pg-client/commit/868a19ee9648b1b1e2c223698e681a259365dcef))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([938c525](https://github.com/wmfs/hl-pg-client/commit/938c525e29efe0b119b32a200f346eb663ee2869))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([2a99fe7](https://github.com/wmfs/hl-pg-client/commit/2a99fe778adf8af86e4f3814f6117d1201384814))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([ed1ddd7](https://github.com/wmfs/hl-pg-client/commit/ed1ddd788f0c69bba9b160573c3e31dec437c511))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([54f769c](https://github.com/wmfs/hl-pg-client/commit/54f769c301cdbf939fc733be4af7583caca35a13))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([c07b63c](https://github.com/wmfs/hl-pg-client/commit/c07b63cf4e80a761ee2e09afca875fe1dbf5ddea))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([8470863](https://github.com/wmfs/hl-pg-client/commit/84708630557a45b53b6ff66da0e86b97fb46f161))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([c6acc35](https://github.com/wmfs/hl-pg-client/commit/c6acc35e805c95b6e2c7f299da4a9fa5266797fe))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([95c297f](https://github.com/wmfs/hl-pg-client/commit/95c297f011e5dde708b7f7363876fe7aa547cef7))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([311c1cf](https://github.com/wmfs/hl-pg-client/commit/311c1cfc5f0d88f4f08e1f2ae938d0826c967f4d))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([a92d2e9](https://github.com/wmfs/hl-pg-client/commit/a92d2e9deaf5d6b1bbf6934e5a6b9fafe8b199d0))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([2c1a21c](https://github.com/wmfs/hl-pg-client/commit/2c1a21cd51ca85a3619bff5aaf3127acff010c21))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([f4c2ca7](https://github.com/wmfs/hl-pg-client/commit/f4c2ca7351aeb43541588529c6f89f23895ff672))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([1f79618](https://github.com/wmfs/hl-pg-client/commit/1f79618556c1067524577a3482ce757cf6e235d7))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([dcde3f0](https://github.com/wmfs/hl-pg-client/commit/dcde3f0c4dd1797a20c86b716533f9d30fb572e8))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([baa4836](https://github.com/wmfs/hl-pg-client/commit/baa48366ceb7c57ac53bcacd06b51e751e814afa))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update postgres config to 13.2 ([57ba695](https://github.com/wmfs/hl-pg-client/commit/57ba695eacd4fdba73134ffe7cb4a1eb43de786f))
+
 # [1.27.0](https://github.com/wmfs/hl-pg-client/compare/v1.26.0...v1.27.0) (2021-01-12)
 
 
