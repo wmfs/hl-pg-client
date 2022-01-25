@@ -1,3 +1,39 @@
+# [1.29.0](https://github.com/wmfs/hl-pg-client/compare/v1.28.0...v1.29.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([4968d19](https://github.com/wmfs/hl-pg-client/commit/4968d198ae8b8cdd9c16a825f0f3b6971f62a69c))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([6e146b7](https://github.com/wmfs/hl-pg-client/commit/6e146b72178d1e8905c74bbabaee82f3a9124567))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([3831bfb](https://github.com/wmfs/hl-pg-client/commit/3831bfbfd109fa6799201758a4da1ae6ddfe3f56))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([7723d7f](https://github.com/wmfs/hl-pg-client/commit/7723d7fdae5a8ba8d4c8c24e6adcf5c6201f0685))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([c4970fc](https://github.com/wmfs/hl-pg-client/commit/c4970fc2af9836b497088a6a7fca1c221102c56d))
+* **deps-dev:** update dependency mocha to v9.1.0 ([e339c40](https://github.com/wmfs/hl-pg-client/commit/e339c403c701895395875a5346c2652c9b8d71c9))
+* **deps-dev:** update dependency mocha to v9.1.1 ([a069650](https://github.com/wmfs/hl-pg-client/commit/a069650ed4b220f32e827ae69ad25bb0f8eac732))
+* **deps-dev:** update dependency mocha to v9.1.2 ([8bdf6e9](https://github.com/wmfs/hl-pg-client/commit/8bdf6e93e47b2be7fcc8bea5f21b8092aa47843f))
+* **deps-dev:** update dependency mocha to v9.1.3 ([a655db1](https://github.com/wmfs/hl-pg-client/commit/a655db19ce29aeb0dc4a78af5d47ba3099d7cbcd))
+* **deps-dev:** update dependency mocha to v9.1.4 ([23fc636](https://github.com/wmfs/hl-pg-client/commit/23fc636924400f214df7b5af6824c4cccc5e9947))
+* **deps-dev:** update dependency mocha to v9.2.0 ([49b762f](https://github.com/wmfs/hl-pg-client/commit/49b762fd5869c02f6e24e5ce895e7323fd0e2a59))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([1af098d](https://github.com/wmfs/hl-pg-client/commit/1af098d964539665734bf15e2f804f33a2a7c467))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([caefe59](https://github.com/wmfs/hl-pg-client/commit/caefe5917529f51bff2dcb1ad140799375e43847))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([108d7df](https://github.com/wmfs/hl-pg-client/commit/108d7df171962d739205cd71624d352924fd7068))
+* **deps-dev:** update dependency semantic-release to v18 ([4939c46](https://github.com/wmfs/hl-pg-client/commit/4939c4682d37db9496d14a71611e7a3a8f612579))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([8be203b](https://github.com/wmfs/hl-pg-client/commit/8be203b0b20c2a635e2774313744067bacf98e96))
+* **deps-dev:** update dependency semantic-release to v19 ([1ff73d6](https://github.com/wmfs/hl-pg-client/commit/1ff73d6af7a80ca0e633198a86dcfc86421ab2a0))
+* **deps-dev:** update dependency standard to v16.0.4 ([0bac313](https://github.com/wmfs/hl-pg-client/commit/0bac3134348760ef383e02a07327d1ca5c9e06f0))
+* **deps-dev:** update semantic-release monorepo ([c3e1a7c](https://github.com/wmfs/hl-pg-client/commit/c3e1a7c7992a606399cd95a2e57b8af5c7345856))
+* **deps:** update dependency debug to v4.3.3 ([91baede](https://github.com/wmfs/hl-pg-client/commit/91baedebc9acf78fdce642fa37b5fc5f58f158fd))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** CircleCI update next gen PostgreSQL image [sc-11442] ([15bc1cb](https://github.com/wmfs/hl-pg-client/commit/15bc1cb67684302422d63cd04b053728ff83c8df))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([aef2cc1](https://github.com/wmfs/hl-pg-client/commit/aef2cc19a998d4de0a014a0ab08c0c778bb13fe1))
+
 # [1.28.0](https://github.com/wmfs/hl-pg-client/compare/v1.27.0...v1.28.0) (2021-07-09)
 
 
