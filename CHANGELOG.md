@@ -1,3 +1,19 @@
+# [1.30.0](https://github.com/wmfs/hl-pg-client/compare/v1.29.0...v1.30.0) (2022-10-17)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([718ade4](https://github.com/wmfs/hl-pg-client/commit/718ade4c5aa8b23c7dc1daf39334390effe11686))
+* **deps-dev:** update dependency chai to v4.3.6 ([ffc4a89](https://github.com/wmfs/hl-pg-client/commit/ffc4a89d9978c3a138492e934d07e1c8e69b8572))
+* **deps-dev:** update dependency mocha to v10 ([cd33f9b](https://github.com/wmfs/hl-pg-client/commit/cd33f9b3c55f90a290e1df68cff3a171ddcddfb5))
+* **deps-dev:** update dependency mocha to v10.1.0 ([b261016](https://github.com/wmfs/hl-pg-client/commit/b261016cc02a0b3484b4317bd97c33381dac9a03))
+* **deps-dev:** update dependency mocha to v9.2.1 ([dada153](https://github.com/wmfs/hl-pg-client/commit/dada15322d880fb9e5f77f4b52c68bb250f84440))
+* **deps-dev:** update dependency mocha to v9.2.2 ([768256c](https://github.com/wmfs/hl-pg-client/commit/768256c9aed2bd25d7942f4d78bb09e9ad5141e0))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([b97afb2](https://github.com/wmfs/hl-pg-client/commit/b97afb27d5070a766e0f546191e9eb169f4f6261))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([a56a741](https://github.com/wmfs/hl-pg-client/commit/a56a741ecbb279434caa3beb5a795bc313bfef55))
+* **deps-dev:** update dependency standard to v17 ([ea740a1](https://github.com/wmfs/hl-pg-client/commit/ea740a1556f48804d322eeed3ca064f1c190c185))
+* **deps:** update dependency pg to v8.8.0 ([a1c52a9](https://github.com/wmfs/hl-pg-client/commit/a1c52a9c578f15e6005a921907fbf05e2c80e654))
+
 # [1.29.0](https://github.com/wmfs/hl-pg-client/compare/v1.28.0...v1.29.0) (2022-01-25)
 
 
