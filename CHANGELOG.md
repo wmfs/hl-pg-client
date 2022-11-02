@@ -1,3 +1,10 @@
+# [1.31.0](https://github.com/wmfs/hl-pg-client/compare/v1.30.0...v1.31.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.4 ([7891d49](https://github.com/wmfs/hl-pg-client/commit/7891d493e1b784b82ed15f4abed7bf389b373638))
+
 # [1.30.0](https://github.com/wmfs/hl-pg-client/compare/v1.29.0...v1.30.0) (2022-10-17)
 
 
