@@ -20,7 +20,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "debug": "4.3.4",
-    "pg": "8.8.0"
+    "pg": "8.11.3"
   },
   "devDependencies": {
     "chai": "4.3.7",
