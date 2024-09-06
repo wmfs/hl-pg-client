@@ -19,7 +19,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "debug": "4.3.4",
+    "debug": "4.3.7",
     "pg": "8.8.0"
   },
   "devDependencies": {
