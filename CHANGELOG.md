@@ -1,3 +1,9 @@
+## [1.36.0](https://github.com/wmfs/hl-pg-client/compare/v1.35.0...v1.36.0) (2025-02-14)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency pg to v8.13.3 ([#374](https://github.com/wmfs/hl-pg-client/issues/374)) ([82adf53](https://github.com/wmfs/hl-pg-client/commit/82adf5342cf78b97f28e9ce14f22d707b5d05c86))
+
 ## [1.35.0](https://github.com/wmfs/hl-pg-client/compare/v1.34.0...v1.35.0) (2025-02-12)
 
 ### Build system dependencies :hammer:
