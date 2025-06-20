@@ -1,3 +1,17 @@
+## [1.44.0](https://github.com/wmfs/hl-pg-client/compare/v1.43.0...v1.44.0) (2025-06-20)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#387](https://github.com/wmfs/hl-pg-client/issues/387)) ([ed9022d](https://github.com/wmfs/hl-pg-client/commit/ed9022dfb086c45584f06b0c60bc9b9f2d39810c))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#384](https://github.com/wmfs/hl-pg-client/issues/384)) ([aa3a0cc](https://github.com/wmfs/hl-pg-client/commit/aa3a0cc4bea1e399dcf50196a00890381c3aa39b))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#386](https://github.com/wmfs/hl-pg-client/issues/386)) ([de6a208](https://github.com/wmfs/hl-pg-client/commit/de6a2083a5896e69978d005e4b74e56aab9801c1))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#389](https://github.com/wmfs/hl-pg-client/issues/389)) ([024fa36](https://github.com/wmfs/hl-pg-client/commit/024fa36af3471795e3fbfd9a55e22282f779b954))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#390](https://github.com/wmfs/hl-pg-client/issues/390)) ([dff08ce](https://github.com/wmfs/hl-pg-client/commit/dff08ce2c7410447e305505b96e97bd2557ffc95))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#391](https://github.com/wmfs/hl-pg-client/issues/391)) ([c7d340b](https://github.com/wmfs/hl-pg-client/commit/c7d340b7ef7ab702c711072b487a99c145c1f621))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#385](https://github.com/wmfs/hl-pg-client/issues/385)) ([fabd6eb](https://github.com/wmfs/hl-pg-client/commit/fabd6eb4a805c8b098d45e25cbd79356d1657688))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#388](https://github.com/wmfs/hl-pg-client/issues/388)) ([8092154](https://github.com/wmfs/hl-pg-client/commit/80921548b210500d58f4223f955d9c15bd827ae8))
+* **deps:** update dependency pg to v8.16.2 ([#392](https://github.com/wmfs/hl-pg-client/issues/392)) ([6bde864](https://github.com/wmfs/hl-pg-client/commit/6bde8644c2091216be9ff49d08c0fd25be6fcf5c))
+
 ## [1.43.0](https://github.com/wmfs/hl-pg-client/compare/v1.42.0...v1.43.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
