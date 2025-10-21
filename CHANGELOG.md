@@ -1,3 +1,21 @@
+## [1.46.0](https://github.com/wmfs/hl-pg-client/compare/v1.45.0...v1.46.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#400](https://github.com/wmfs/hl-pg-client/issues/400)) ([cb5114d](https://github.com/wmfs/hl-pg-client/commit/cb5114dfa264d44603a124777512cc0edab436cb))
+* **deps-dev:** update dependency chai to v6 ([#398](https://github.com/wmfs/hl-pg-client/issues/398)) ([15abca1](https://github.com/wmfs/hl-pg-client/commit/15abca1c04d840ca0db858d60149c12b462c984c))
+* **deps-dev:** update dependency chai to v6.2.0 ([#404](https://github.com/wmfs/hl-pg-client/issues/404)) ([3a51c2e](https://github.com/wmfs/hl-pg-client/commit/3a51c2ecae6404f0bd0a9e55a25e4653d29c0e70))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#396](https://github.com/wmfs/hl-pg-client/issues/396)) ([58ff579](https://github.com/wmfs/hl-pg-client/commit/58ff57929160c11818bee0d2b80f4e651a61fd4c))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#399](https://github.com/wmfs/hl-pg-client/issues/399)) ([9c0adcd](https://github.com/wmfs/hl-pg-client/commit/9c0adcda24974bfe4b0edcba8eb2eb137e048d01))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#405](https://github.com/wmfs/hl-pg-client/issues/405)) ([45db915](https://github.com/wmfs/hl-pg-client/commit/45db915b549145fd50d9362a93fd2c38a9b5a0cd))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#406](https://github.com/wmfs/hl-pg-client/issues/406)) ([b2eabf2](https://github.com/wmfs/hl-pg-client/commit/b2eabf243ac51007bd81ce8f2ccb77173e5ea60b))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#397](https://github.com/wmfs/hl-pg-client/issues/397)) ([57a4eb7](https://github.com/wmfs/hl-pg-client/commit/57a4eb7a9716554470474cffe36a41b88879d56f))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#401](https://github.com/wmfs/hl-pg-client/issues/401)) ([a650c85](https://github.com/wmfs/hl-pg-client/commit/a650c851b495043d0c9ee393a512688709fa5c96))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#403](https://github.com/wmfs/hl-pg-client/issues/403)) ([cdad409](https://github.com/wmfs/hl-pg-client/commit/cdad409b4b8aadeda9023f154095498404f378b1))
+* **deps-dev:** update dependency semantic-release to v25 ([#407](https://github.com/wmfs/hl-pg-client/issues/407)) ([3ae9e0d](https://github.com/wmfs/hl-pg-client/commit/3ae9e0d3f0c4a9157587d8bfcef731d0ca879352))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#408](https://github.com/wmfs/hl-pg-client/issues/408)) ([c2340ee](https://github.com/wmfs/hl-pg-client/commit/c2340ee05371dda95b8b3c742deee521b62c9616))
+* **deps:** revert chai to non-esm ([8448f86](https://github.com/wmfs/hl-pg-client/commit/8448f8687f9ffd4dcdea94904ce8bb5ea46655f1))
+
 ## [1.45.0](https://github.com/wmfs/hl-pg-client/compare/v1.44.0...v1.45.0) (2025-06-30)
 
 ### Build system dependencies :hammer:
