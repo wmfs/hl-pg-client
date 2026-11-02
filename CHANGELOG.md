@@ -1,3 +1,21 @@
+## [1.47.0](https://github.com/wmfs/hl-pg-client/compare/v1.46.1...v1.47.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([529315b](https://github.com/wmfs/hl-pg-client/commit/529315b24de3723964f90cf7304dbda892c9e37c))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#432](https://github.com/wmfs/hl-pg-client/issues/432)) ([058eb04](https://github.com/wmfs/hl-pg-client/commit/058eb049694481a8341a5db48caa29001e770741))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#437](https://github.com/wmfs/hl-pg-client/issues/437)) ([0f4d15d](https://github.com/wmfs/hl-pg-client/commit/0f4d15db9a2215b0a3057e16b92eff426bf769cd))
+* **deps-dev:** update dependency mocha to v12 ([#433](https://github.com/wmfs/hl-pg-client/issues/433)) ([d8e61c2](https://github.com/wmfs/hl-pg-client/commit/d8e61c214eed0d0b451db255a1c7e61f2cf92239))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#434](https://github.com/wmfs/hl-pg-client/issues/434)) ([0a2cf80](https://github.com/wmfs/hl-pg-client/commit/0a2cf80588e4d2b89e159a716261c95f99d74ef1))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#435](https://github.com/wmfs/hl-pg-client/issues/435)) ([4ba971b](https://github.com/wmfs/hl-pg-client/commit/4ba971b25ddf235fa15ffd35400feccac2166c46))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#436](https://github.com/wmfs/hl-pg-client/issues/436)) ([1ff7e0b](https://github.com/wmfs/hl-pg-client/commit/1ff7e0bd6aebba66899013dcb5b2a7fab8f7988a))
+* **deps:** update dependency pg to v8.23.1 ([#412](https://github.com/wmfs/hl-pg-client/issues/412)) ([f1a85ab](https://github.com/wmfs/hl-pg-client/commit/f1a85abbb97e7c5976aaa05773c5afb320b24180))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#438](https://github.com/wmfs/hl-pg-client/issues/438)) ([ec70896](https://github.com/wmfs/hl-pg-client/commit/ec708960e6088c44039ee223a7af6b15346d8fc0))
+* use shared renovate preset [sc-34117] ([#439](https://github.com/wmfs/hl-pg-client/issues/439)) ([b188dd9](https://github.com/wmfs/hl-pg-client/commit/b188dd9c2e98143730ffeba26b5635ee258ad311))
+
 ## [1.46.1](https://github.com/wmfs/hl-pg-client/compare/v1.46.0...v1.46.1) (2026-08-13)
 
 ## [1.46.0](https://github.com/wmfs/hl-pg-client/compare/v1.45.0...v1.46.0) (2025-10-21)
